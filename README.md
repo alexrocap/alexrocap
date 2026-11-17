@@ -1,6 +1,6 @@
 # Hi, I'm Alex Ro 👋
 
-Associate Data Scientist passionate about building AI-powered products that solve real business problems. My work spans Machine Learning, Generative AI, Agentic AI, NLP, Computer Vision, and Cloud Engineering.
+Data Scientist passionate about building AI-powered products that solve real business problems. My work spans Machine Learning, Generative AI, Agentic AI, NLP, Computer Vision, and Cloud Engineering.
 
 ## 🚀 About Me
 
