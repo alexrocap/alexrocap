@@ -6,7 +6,7 @@ Data Scientist passionate about building AI-powered products that solve real bus
 
 - 🤖 Building AI Agents using LangGraph, LangChain, AWS Bedrock, and AgentCore
 - 📊 Developing Machine Learning and NLP solutions for enterprise applications
-- ☁️ Experience with AWS, Databricks, Azure, Docker, and Kubernetes
+- ☁️ Experience with AWS, Databricks, GCP, Docker, and Kubernetes
 - 🧠 Interested in LLMs, RAG, Multi-Agent Systems, MLOps, and AI Architecture
 - 🔬 Background in predictive analytics, anomaly detection, forecasting, and computer vision
 - 📍 Houston, Texas
@@ -38,7 +38,7 @@ Data Scientist passionate about building AI-powered products that solve real bus
 
 ### Cloud & Data
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
