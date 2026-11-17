@@ -22,13 +22,26 @@ Data Scientist passionate about building AI-powered products that solve real bus
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### AI / Machine Learning
-PyTorch • TensorFlow • Scikit-Learn • XGBoost • LangChain • LangGraph • Hugging Face
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC1C24?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### Generative AI
-AWS Bedrock • OpenAI • RAG • Vector Databases • Prompt Engineering • Agentic Workflows
+![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-009688?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-2563EB?style=for-the-badge)
+![Vector_DBs](https://img.shields.io/badge/Vector_Databases-10B981?style=for-the-badge)
 
 ### Cloud & Data
-AWS • Azure • Databricks • Snowflake • Spark • Docker • Kubernetes
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### Areas of Interest
 - Agentic AI
